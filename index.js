@@ -112,5 +112,3 @@ app.get("/mostrarProduto", (req, res) => {
 
     res.send(htmlResponse); 
 });
-git config --global user.email "kevenbrandaoms@outlook.com"
-git config --global user.name "KevinBrandao"
